@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[126],{3383:function(t,e,o){"use strict";o.r(e);var n={components:{WootReports:o(2791).a}},s=o(8),a=Object(s.a)(n,(function(){return(0,this._self._c)("woot-reports",{key:"team-reports",attrs:{type:"team","getter-key":"teams/getTeams","action-key":"teams/get","download-button-label":this.$t("TEAM_REPORTS.DOWNLOAD_TEAM_REPORTS")}})}),[],!1,null,null,null);e.default=a.exports}}]);
-//# sourceMappingURL=126-7142eecdeafe8988a0e4.chunk.js.map
